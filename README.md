@@ -17,7 +17,7 @@
 ### Project: (UART) Universal Asynchronous Receiver and Transmitter Design
 
 ### Output: 
-![output](https://raw.githubusercontent.com/sai-70349/CODETECH-Task1/ce93906204202bf40451d865ef2297fa29c072c7/uart.png)
+![output](https://github.com/sunilkumar705-gif/CODTECH-Task-1/blob/main/UART.jpeg?raw=true)
 
 ## Objective of the project:
 
